@@ -1,0 +1,38 @@
+{
+    "name": "huddle-bot",
+    "version": "1.0.0",
+    "description": "Automatic bot for joining Huddle01 testnet rooms and collecting participation points",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/LinuxDil/Huddle01-Bot.git"
+    },
+    "keywords": [
+      "huddle01",
+      "testnet",
+      "bot",
+      "web3",
+      "ethereum",
+      "airdrop"
+    ],
+    "author": "Airdrop Insiders",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/LinuxDil/Huddle01-Bot/issues"
+    },
+    "homepage": "https://github.com/LinuxDil/Huddle01-Bot#readme",
+    "dependencies": {
+      "axios": "^1.6.7",
+      "ethers": "^5.7.2",
+      "fs-extra": "^11.2.0",
+      "uuid": "^9.0.1",
+      "ws": "^8.16.0"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
