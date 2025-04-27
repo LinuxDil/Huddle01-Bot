@@ -24,7 +24,7 @@ A Node.js bot for automatically joining Huddle01 test network rooms to collect t
 1. Clone the repository:
 ```bash
 git clone https://github.com/LinuxDil/Huddle01-Bot.git
-cd Huddle01-Auto-Bot
+cd Huddle01-Bot
 ```
 
 2. Install dependencies:
