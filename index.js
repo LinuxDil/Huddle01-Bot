@@ -30,7 +30,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`  Huddle Testnet Auto Bot - Airdrop Insiders `);
+    console.log(`  Huddle Testnet Auto Bot - Airdrop Seeker `);
     console.log(`---------------------------------------------${colors.reset}`);
     console.log();
   }
